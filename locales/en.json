@@ -7,8 +7,20 @@
 
     "characters": "👤 CHARACTERS",
     "quests": "📜 QUESTS",
-    "scenes": "💬 SCENES",
     "assets": "🎨 ASSETS",
+
+    "locations": "🗺 LOCATIONS & MAPS",
+    "loc_id_label": "Ren'Py Base Tag (e.g. 'bg room'):",
+    "loc_name_label": "Descriptive Name:",
+    "variations_label": "Variations (Day, Night...):",
+    "add_var_btn": "+ Add Variation",
+
+    "scenes": "🏞 SCENES / BG",
+    "scene_id_label": "Definition (e.g. 'bg room'):",
+    "scene_file_label": "Image File:",
+    "browse_btn": "Browse...",
+    "preview_label": "Preview:",
+    "no_preview": "No preview available",
 
     "list_header": "List",
     "new_btn": "+ NEW",

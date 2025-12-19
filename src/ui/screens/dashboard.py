@@ -1,6 +1,7 @@
 import tkinter as tk
 from src.utils.translator import T
 from src.ui.tabs.characters import CharactersTab
+from src.ui.tabs.locations import LocationsTab
 import os
 
 class Dashboard(tk.Frame):
@@ -28,6 +29,7 @@ class Dashboard(tk.Frame):
 
         # Sidebar Buttons
         self._sidebar_btn(sidebar, T.get("characters"), lambda: self.show_tab(CharactersTab))
+        self._sidebar_btn(sidebar, T.get("locations"), lambda: self.show_tab(LocationsTab))
 
         # Default Tab
         self.show_tab(CharactersTab)

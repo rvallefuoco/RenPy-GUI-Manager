@@ -7,8 +7,20 @@
     
     "characters": "👤 PERSONAGGI",
     "quests": "📜 MISSIONI",
-    "scenes": "💬 SCENE",
     "assets": "🎨 ASSET",
+
+    "locations": "🗺 LUOGHI & MAPPE",
+    "loc_id_label": "Tag Base Ren'Py (es. 'bg camera'):",
+    "loc_name_label": "Nome Descrittivo (es. 'Camera di Marco'):",
+    "variations_label": "Varianti (Giorno, Notte...):",
+    "add_var_btn": "+ Aggiungi Variante",
+
+    "scenes": "🏞 SCENE / SFONDI",
+    "scene_id_label": "Definizione (es. 'bg camera'):",
+    "scene_file_label": "File Immagine:",
+    "browse_btn": "Sfoglia...",
+    "preview_label": "Anteprima:",
+    "no_preview": "Nessuna anteprima disponibile",
 
     "list_header": "Elenco",
     "new_btn": "+ NUOVO",
