@@ -1,0 +1,26 @@
+{
+    "app_title": "Ren'py GUI Manager",
+    "load_project": "📂 Carica Progetto",
+    "recents": "Progetti Recenti:",
+    "project": "PROGETTO",
+    "exit": "Esci",
+    "characters": "👤 PERSONAGGI",
+    "quests": "📜 MISSIONI",
+    "scenes": "💬 SCENE",
+    "list_header": "Elenco",
+    "new_btn": "+ NUOVO",
+    "edit_char_title": "Modifica Personaggio",
+    "var_label": "Variabile Ren'Py (es. 'e'):",
+    "name_label": "Nome Visualizzato:",
+    "color_label": "Colore Testo:",
+    "save_btn": "💾 SALVA MODIFICHE",
+    "error_no_game": "Errore: cartella 'game' non trovata!",
+    "select_or_create": "Seleziona o crea un personaggio",
+    "export_btn": "⚡ GENERA SCRIPT (characters.rpy)",
+    "export_success": "File 'characters.rpy' generato con successo nella cartella game!",
+    "export_error": "Errore durante la generazione del file:",
+
+    "generated_1": "# File generato automaticamente da Ren'Py Project Manager\n",
+    "generated_2": "# Non modificare manualmente.\n\n"
+
+}
