@@ -151,6 +151,8 @@ class RenPyManagerApp:
         tk.Button(sidebar, text=T.get("characters"), command=lambda: self.open_character_tab(content_area),
                   bg="#666", fg="white", font=("Arial", 10, "bold"), height=2, bd=0).pack(fill=tk.X, pady=1)
         
+        tk.Button(sidebar, text=T.get("assets"), state=tk.DISABLED, bg="#444", fg="gray", bd=0).pack(fill=tk.X, pady=1)
+        
         tk.Button(sidebar, text=T.get("quests"), state=tk.DISABLED, bg="#444", fg="gray", bd=0).pack(fill=tk.X, pady=1)
 
         content_area = tk.Frame(main_container, bg="#f0f0f0")

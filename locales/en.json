@@ -4,9 +4,12 @@
     "recents": "Recent Projects:",
     "project": "PROJECT",
     "exit": "Exit",
+
     "characters": "👤 CHARACTERS",
     "quests": "📜 QUESTS",
     "scenes": "💬 SCENES",
+    "assets": "🎨 ASSETS",
+
     "list_header": "List",
     "new_btn": "+ NEW",
     "edit_char_title": "Edit Character",

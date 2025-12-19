@@ -4,9 +4,12 @@
     "recents": "Progetti Recenti:",
     "project": "PROGETTO",
     "exit": "Esci",
+    
     "characters": "👤 PERSONAGGI",
     "quests": "📜 MISSIONI",
     "scenes": "💬 SCENE",
+    "assets": "🎨 ASSET",
+
     "list_header": "Elenco",
     "new_btn": "+ NUOVO",
     "edit_char_title": "Modifica Personaggio",
